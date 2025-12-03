@@ -1,8 +1,5 @@
-Segue a continuação da análise no formato que você pode copiar e colar no GitHub:
+# 📄 Compras PCP - Regras de Negócio
 
----
-
-## - Regras de Negócio
 
 * **Recebimento de e-mail**
 
